@@ -190,3 +190,6 @@ c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\x86\
 c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\qualifiers.txt.intermediate
 c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\play-button.jpg
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\glyphicons-183-mute.png
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\glyphicons-185-volume-up.png
