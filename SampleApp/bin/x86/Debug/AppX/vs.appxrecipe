@@ -28,13 +28,13 @@
     <AppXManifest Include="c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-09T12:29:01.257</Modified>
+      <Modified>2017-02-09T12:40:40.970</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\SampleApp.exe">
       <PackagePath>entrypoint\SampleApp.exe</PackagePath>
-      <Modified>2017-02-09T12:29:00.470</Modified>
+      <Modified>2017-02-09T12:40:40.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -488,7 +488,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\SampleApp.xr.xml">
       <PackagePath>SampleApp.xr.xml</PackagePath>
-      <Modified>2017-02-09T12:29:00.101</Modified>
+      <Modified>2017-02-09T12:40:39.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -497,11 +497,11 @@
     <AppxPackagedFile Include="c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-09T12:29:00.911</Modified>
+      <Modified>2017-02-09T12:40:40.735</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\Core\SampleApp.exe">
       <PackagePath>SampleApp.exe</PackagePath>
-      <Modified>2017-02-09T12:29:01.255</Modified>
+      <Modified>2017-02-09T12:40:40.967</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
