@@ -34,6 +34,8 @@ namespace SampleApp
             Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("Play");
             mediaElement.SetSource(stream, stream.ContentType);
             mediaElement.Play();
+
+            this.Frame.Navigate(typeof(Game), null);
         }
     }
     

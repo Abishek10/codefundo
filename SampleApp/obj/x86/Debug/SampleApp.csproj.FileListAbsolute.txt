@@ -193,3 +193,8 @@ c:\users\user\documents\visual studio 2015\Projects\SampleApp\SampleApp\obj\x86\
 C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\play-button.jpg
 C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\glyphicons-183-mute.png
 C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\glyphicons-185-volume-up.png
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\bin\x86\Debug\Game.xbf
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\Game.g.i.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\Game.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\Game.xaml
+C:\Users\user\Documents\Visual Studio 2015\Projects\SampleApp\SampleApp\obj\x86\Debug\Game.xbf

@@ -9,7 +9,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBlock x:ConnectionId='1' x:Name="textBlock" HorizontalAlignment="Center" Margin="0,94,0,0" TextWrapping="Wrap" Text="Tap and Don't Crap" VerticalAlignment="Top" FontSize="30" FontWeight="Bold" />
-        <Button x:ConnectionId='2' x:Name="button"                       Content="Button" HorizontalAlignment="Center" Margin="121,234,121,221" VerticalAlignment="Center" Height="185" Width="118" RenderTransformOrigin="0.265,0.336">
+        <Button x:ConnectionId='2' x:Name="button"                       HorizontalAlignment="Center" Margin="121,234,121,221" VerticalAlignment="Center" Height="185" Width="118" RenderTransformOrigin="0.265,0.336">
             <Button.Template>
                 <ControlTemplate>
                     <Image Source="play-button.jpg"/>
