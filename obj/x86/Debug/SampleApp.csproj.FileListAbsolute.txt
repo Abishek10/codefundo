@@ -398,3 +398,13 @@ C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-mast
 C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\Difficulty.xbf
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\Gamemode.xbf
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Difficulty.g.i.cs
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Difficulty.g.cs
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Gamemode.g.i.cs
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Gamemode.g.cs
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Difficulty.xaml
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Gamemode.xaml
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Difficulty.xbf
+C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\obj\x86\Debug\Gamemode.xbf

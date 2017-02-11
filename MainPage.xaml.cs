@@ -35,7 +35,7 @@ namespace SampleApp
             mediaElement.SetSource(stream, stream.ContentType);
             mediaElement.Play();
 
-            this.Frame.Navigate(typeof(Game), null);
+            this.Frame.Navigate(typeof(Difficulty), null);
         }
     }
     

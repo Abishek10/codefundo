@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-10T16:37:50.883</Modified>
+      <Modified>2017-02-11T06:59:57.213</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\SampleApp.exe">
       <PackagePath>entrypoint\SampleApp.exe</PackagePath>
-      <Modified>2017-02-10T16:37:45.836</Modified>
+      <Modified>2017-02-11T06:59:56.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hari Haran\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -500,7 +500,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\SampleApp.xr.xml">
       <PackagePath>SampleApp.xr.xml</PackagePath>
-      <Modified>2017-02-10T16:37:45.280</Modified>
+      <Modified>2017-02-11T06:57:43.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -509,11 +509,11 @@
     <AppxPackagedFile Include="C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-10T16:37:49.590</Modified>
+      <Modified>2017-02-11T06:57:45.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hari Haran\Documents\Visual Studio 2015\codefundo-master\codefundo-master\SampleApp\bin\x86\Debug\Core\SampleApp.exe">
       <PackagePath>SampleApp.exe</PackagePath>
-      <Modified>2017-02-10T16:37:50.878</Modified>
+      <Modified>2017-02-11T06:59:57.208</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
