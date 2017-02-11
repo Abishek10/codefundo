@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="SampleApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SampleApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:ConnectionId='1' x:Name="textBlock" HorizontalAlignment="Center" Margin="0,94,0,0" TextWrapping="Wrap" Text="Tap and Don't Crap" VerticalAlignment="Top" FontSize="30" FontWeight="Bold" />
+        <Button x:ConnectionId='2' x:Name="button"                       HorizontalAlignment="Center" Margin="121,234,121,221" VerticalAlignment="Center" Height="185" Width="118" RenderTransformOrigin="0.265,0.336">
+            <Button.Template>
+                <ControlTemplate>
+                    <Image Source="play-button.jpg"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Page>
+
